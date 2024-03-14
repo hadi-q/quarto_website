@@ -1,8 +1,8 @@
 ---
-title: "quarto_website"
+title: "Hadi Ahmad's Website"
 ---
 
-This is a Quarto website.
+Hello! My name is Hadi, and I am an aspiring data analyst and current student at UofT's Faculty of Information.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
